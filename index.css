@@ -56,3 +56,24 @@ main {
     background:#639A67 ;
 }
 
+.joinha{
+    margin-left: 38%;
+    width: 600px;
+
+}
+.parabens_texto{
+    text-align:center ;
+
+}
+.parabens_grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-rows: 1fr 1fr 1fr;
+    padding: 50px;
+    grid-gap: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+    background:#fff;
+}
+

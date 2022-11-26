@@ -135,7 +135,6 @@ fieldset.grupo .campo {
   
   .picture {
     width: 400px;
-    aspect-ratio: 16/9;
     background: #ddd;
     display: flex;
     align-items: center;
