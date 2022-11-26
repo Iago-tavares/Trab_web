@@ -1,0 +1,58 @@
+body {
+    background: #F8F8F8;
+    color: black;
+}
+
+main {
+    text-align: justify;
+    margin: 5%;
+}    
+.navegação{
+    text-align: center;
+    background: #639A67;
+    font-size: 19px;
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+.span_navegação{
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+           
+.header-titulo {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+   
+.img{
+    padding-left: 20%;
+    padding-right: 10%;
+
+}   
+.navegação_texto_1 {
+    background-color:#D9BF77;
+    color: black;
+    
+}
+.navegação_texto_2 {
+    background: #D9BF77;
+    color: black;
+}
+.navegação_texto_3 {
+    background: #D9BF77;
+    color: black;
+}
+
+.quem_somos{
+    background: blue;
+}
+
+.foot{
+    background:#639A67 ;
+}
+
